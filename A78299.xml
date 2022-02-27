@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another famous victorie obtained by his Excellencie the Earle of Essex. Against the Kings army, neer Reading, Oxford, Marlow and Healy. Decem. 3. Wherein is declared the manner how these three regiments gave the Kings army the overthrow, killing about 1100. of them, and taking great store of ammunition, money, and prisoners with the losse of 300. men. Namely the Orange Coats, commanded by his Excellencie: the Green Coats, commanded by Colonell Goodwyn: the Blue-coats, commanded by Colonell Langham marchant in London. Also, His Majesties proceedings at Oxford, and the great preparations that are made there to entertain the Queen of Bohemia.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78299</idno>
+            <idno type="STC">Wing C127</idno>
+            <idno type="STC">Thomason E129_6</idno>
+            <idno type="STC">ESTC R2101</idno>
+            <idno type="EEBO-CITATION">99868928</idno>
+            <idno type="PROQUEST">99868928</idno>
+            <idno type="VID">156271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another famous victorie obtained by his Excellencie the Earle of Essex. Against the Kings army, neer Reading, Oxford, Marlow and Healy. Decem. 3. Wherein is declared the manner how these three regiments gave the Kings army the overthrow, killing about 1100. of them, and taking great store of ammunition, money, and prisoners with the losse of 300. men. Namely the Orange Coats, commanded by his Excellencie: the Green Coats, commanded by Colonell Goodwyn: the Blue-coats, commanded by Colonell Langham marchant in London. Also, His Majesties proceedings at Oxford, and the great preparations that are made there to entertain the Queen of Bohemia.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 6. Printed for Ioseph Neale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Black letter.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>"A true relation of His Majesties proceedings at Oxford" on p. [6-8] signed: T. C.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth, --  Queen, consort of Frederick I, King of Bohemia, 1596-1662 --  Early works to 1800.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Goodwin, Arthur, 1593 or 4-1643 --  Early works to 1800.</term>
+               <term>Laugharne, Rowland, d. 1676 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156271:1" rendition="simple:additions"/>
+            <p>Another famous VICTORIE Obtained by His EXCELLENCIE The Earle of <hi>ESSEX.</hi>
+            </p>
+            <p>Againſt the Kings Army, neer <hi>Reading, Oxford, Marlow</hi> and <hi>Healy.</hi> Decem. 3.</p>
+            <p>Wherein is declared the manner how theſe three Regiments gave the Kings Army the overthrow, killing about 1100. of them, and taking great ſtore of Ammnition, money, and priſoners with the loſſe of 300. men.</p>
+            <p>Namely, the Orange Coats, commanded by his Excellencie: The Green Coats, commanded by Colonell <hi>Goodwyn:</hi> The Blue-coats, commanded by Colonell <hi>Langham</hi> marchant in <hi>London.</hi>
+            </p>
+            <p>Alſo, His Majeſties proceedings at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and the great preparations that are made there to entertain the Queen of <hi>Bohemia.</hi>
+            </p>
+            <p>
+               <hi>Decemb.</hi> 6. Printed for <hi>Ioſeph Neale.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156271:2"/>
+            <pb facs="tcp:156271:2"/>
+            <div type="part">
+               <head>Another Glorious VICTORIE OBTAINED By his Excellencie, and Col. Langham againſt the Cavaleirs, at their ſecond ſurrounding of the Kings Army, neer Reading, Marlow, and Henley, Decemb. 2.</head>
+               <p>UPon the firſt day of Decemb. His Ex<g ref="char:EOLhyphen"/>cellencie had intelligence that the Ca<g ref="char:EOLhyphen"/>valeirs were reſolved to leave Oxford Reding, Marlow, and Henley, and to betake themſelves further downe into the Weſt Countries, thereby thinking to ſtrengthen their wicked and Tyrannicall Crew, and to furniſh themſelvs with ſuch Arms and Am<g ref="char:EOLhyphen"/>munition which they ſtood in extraordinary need of: Whereupon his Excellency taking the ſame into ſerious conſideration, and fin<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:156271:3"/> that it would prove very prejudiciall unto them, if that they did neglect and let this opportunity ſlip, he forthwith called a Coun<g ref="char:EOLhyphen"/>cell of Warre, where his Excellency very no<g ref="char:EOLhyphen"/>bly declared himſelf unto moſt of the Officers and Commanders, and after ſome time ſpent in conſultation thereupon, it was concluded that ſeverall Regiments of Horſe add Foote ſhould be forthwith drawn out of the Mayne Body to wheele about towards Reding and Marlow, and ſo by that means to get beyond the kings Irmy, which was accordingly put in execution and performed.</p>
+               <p>And upon the ſecond of this month his Excellencie cauſed and gave command that ſeverall Pieces of Ordnance ſhould be with all expedition Planted againſt Marlow and Henley, where the Cavaleers had ſtrongly in<g ref="char:EOLhyphen"/>trenched themſelves.</p>
+               <p>The Ordnance plaid for the ſpace of two hours very furiouſly, doing great execution upon the Enemy, and after they had done playing, His Excellencies own Regiment ad<g ref="char:EOLhyphen"/>vanced up towards the aforeſaid Towns, to<g ref="char:EOLhyphen"/>gether with the Lord Sey his Regiment and Colonell Langham, accompanied with four<g ref="char:EOLhyphen"/>teene Troops of Horſe, who performed that which they took in hand ſo undantedly, and with ſuch Noble and Heroick courage, that they may well be ſtyled, the undanted ſpirits of Chriſtendome.</p>
+               <p>For no ſooner had Colonell Langham
+<pb facs="tcp:156271:3"/> brought up his Regiment and placed them in a fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r battalia, but they immediatly fell on, fighting for the ſpace of three hours moſt in<g ref="char:EOLhyphen"/>tollerable, being reſolved either to loſe their own lives, or to win that honour which the former Blew-Coats hath loſt.</p>
+               <p>It is credibly reported, that the Enemy loſt in this fight at the leaſt ſeven hundred men, beſides many hundreds that are taken Priſoners.</p>
+               <p>Then the other two Regiments com<g ref="char:EOLhyphen"/>manded by his Excellency and the Lord Sey marched up to relieve Collonell Langham, where they did great execution, the Orenge Coats fighting with the ſame Courage and Reſolution as they formerly did at Kinton, and after much ſhot ſpent on both ſides, the Cavaleirs retreated, and left the Towne of Marlow, together with above two thouſand of their Confederates dead behind them, be<g ref="char:EOLhyphen"/>ſides many that were ſlain and taken Priſo<g ref="char:EOLhyphen"/>ners, as they were running away.</p>
+               <p>Thus by the great mercy and providence of God his Excellencie hath obtained the vi<g ref="char:EOLhyphen"/>ctory, giving unto them a farre greater Over<g ref="char:EOLhyphen"/>throw then they had at Kinton, inſomuch that they have now cleered the Townes of Mar<g ref="char:EOLhyphen"/>low and Henley.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:156271:4"/>
+               <head>A True Relation of His Majeſties pro<g ref="char:EOLhyphen"/>ceedings at <hi>Oxford.</hi>
+               </head>
+               <p>IT is credibly informed, that His Majeſty will abide this Winter Quarter at <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi> Alſo there is great preparation for Her Majeſty the Queene of Bohemia, and her Son the Prince Elector, who is expected with his Majeſty on ſaturday next for there is ſent the Lord <hi>Capell,</hi> the Lord <hi>Seymour,</hi> and other Gentlemen of quality to meet them at <hi>Dover,</hi> and for the ſafe conducting of them to His Majeſty. The City of <hi>Oxford</hi> is ſtrongly fortifying it ſelfe, and there ſhall bee foure Troops of Horſe, containing a hundred in a Troope, that ſhall every night keepe cen<g ref="char:EOLhyphen"/>tinell at the foure thorow-fares to the City; as alſo foure Foot-companies a mile from the Horſe.</p>
+               <p>His Majeſty hath lately proclaimed a Proclamation, that what Souldier ſoever ſhall rob or pillage any houſe in the ſaid City, ſhall be puniſhed with death, which hitherto hath been obſerved. There are three Gentle<g ref="char:EOLhyphen"/>men in Election to be Lord Privy Seale, but
+<pb facs="tcp:156271:4"/> I imagine Mr. <hi>Holborne</hi> will have that for<g ref="char:EOLhyphen"/>tune of Honour, though the Lord of <hi>Dorſet</hi> have the place in reverſion; Maſter <hi>Hide</hi> ſtands likewiſe for it, who is as great with His Majeſty as any, if not greater, for he is the man that draweth and correcteth all His Majeſties Declarations, Proclamations, and Proteſtations, and what not before they are publiſhed to the whole World. There came the laſt night intelligence to His Ma<g ref="char:EOLhyphen"/>jeſty, that there were neere foureſcore Troo<g ref="char:EOLhyphen"/>pers taken at <hi>Harlow Roe</hi> by the Parlia<g ref="char:EOLhyphen"/>ments forces, before the taking of which there were ten or more ſlaine, but in the con<g ref="char:EOLhyphen"/>ducting of them towards <hi>London</hi> a party of Horſe about fortie were ſet on the Parlia<g ref="char:EOLhyphen"/>ments Forces to reſcue their fellowes, were likewiſe taken upon the Forreſt of <hi>Windſore.</hi> I have not for the preſent any more newes to write you ſave this, that neere my houſe at <hi>Abbingron</hi> there were two of the Kings Forces hanged in the High way for cutting a Marker-womans throat; There is farre more miſchiefe done by the Iriſh and weleh<g ref="char:EOLhyphen"/>women then by the Souldiers themſelves all men, women, and children are greatly in feare of them. Upon Saturday laſt his Majeſty in Triumph knighted Maſter <hi>Si<g ref="char:EOLhyphen"/>denham,</hi> Sir <hi>Edmund Sidenham,</hi> who is alſo knight Marſhall. There were ſome few
+<pb facs="tcp:156271:5"/> Lines in Uerſe preſented to His Majeſtie by the Provoſt of Queenes Colledge. His Majeſty doth hourely expect a Meſſage and Propoſitions from the Houſe concerning a Peace, but upon Saterday next you ſhall heare and receive of me at large, in the mean time I leave you to Gods protection and tuition, and reſt</p>
+               <closer>
+                  <signed>Your affectionate Friend and Kinſman, <hi>T. C.</hi>
+                  </signed>
+                  <dateline>Dated <date>the 2. of December, 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
